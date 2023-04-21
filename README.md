@@ -1,7 +1,7 @@
 # Scheduling System
 
 ## Overview
-This is a scheduling system built using C# ASP, SQLite and Entity Framework. It allows users to create and manage appointments.
+This is a scheduling system built using C# ASP, SQLite and Entity Framework Code First Approach. It allows users to create and manage appointments.
 
 ## Features
 - Create and manage appointments
